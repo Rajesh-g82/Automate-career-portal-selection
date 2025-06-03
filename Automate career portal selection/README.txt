@@ -1,0 +1,1 @@
+Job seekers need to key in SSOC occupation and Job title on website. This is frustrating for users as they see it as a duplicate step. Improvement includes automating the SSOC occupation 'suggestion' once job seekers key in Job title on website. Machine learning adopted.
